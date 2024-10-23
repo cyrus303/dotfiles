@@ -1,3 +1,4 @@
 - put nvim inside .config folder
 - install tpm for tmux (clone tpm)
 - set left command to escape+ in iterm
+- import iterm color theme
